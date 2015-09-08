@@ -4,5 +4,4 @@ Yout first project is to create a basic HTML file.
 You have 30min to do the work.
 Regard Kajol.
 
-Hello Kajol,
-i m really enjoying the work. 
+This is the third GITHub Session. 
